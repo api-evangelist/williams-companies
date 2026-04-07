@@ -1,7 +1,12 @@
 aid: williams-companies
-url: https://raw.githubusercontent.com/api-evangelist/williams-companies/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/williams-companies/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.williams-companies.com
+description: >-
+  The Williams Companies is an American energy company with operations focused on
+  natural gas processing and transportation, owning and operating midstream energy
+  infrastructure assets.
