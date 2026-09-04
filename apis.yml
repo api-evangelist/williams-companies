@@ -34,7 +34,7 @@ description: >-
   transactions, but does not offer public developer REST APIs.
 url: https://raw.githubusercontent.com/api-evangelist/williams-companies/refs/heads/main/apis.yml
 type: Index
-position: Consumer
+position: Consuming
 access: 3rd-Party
 tags:
   - Natural Gas
